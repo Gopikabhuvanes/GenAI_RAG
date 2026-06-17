@@ -1,0 +1,10 @@
+flask
+python-dotenv
+pymupdf
+python-docx
+Pillow
+pytesseract
+scikit-learn
+numpy
+requests
+werkzeug
